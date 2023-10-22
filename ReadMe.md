@@ -6,7 +6,6 @@ Software Developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [oluseun.oladiipo@gmail.com](mailto:oluseun.oladiipo@gmail.com)
-* 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
