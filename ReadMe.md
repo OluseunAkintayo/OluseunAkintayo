@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [oluseun.oladiipo@gmail.com](mailto:oluseun.oladiipo@gmail.com)
 * 🤝  I'm open to collaborating on projects
-* Currently building [Complete HR](https://github.com/OluseunAkintayo/complete-hr/)
+* Currently building [Complete HR](https://github.com/OluseunAkintayo/complete-hr)
 
 ### Skills
 
