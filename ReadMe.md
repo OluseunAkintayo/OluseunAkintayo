@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  I'm based in Lagos, Nigeria
+* I love building amazing products
 * ✉️  You can contact me at [oluseun.oladiipo@gmail.com](mailto:oluseun.oladiipo@gmail.com)
 * 🤝  I'm open to collaborating on projects
 * Currently building [Invoice Maker](https://github.com/OluseunAkintayo/InvoiceMaker-UI)
