@@ -7,7 +7,7 @@ Software Developer
 * I love building amazing products
 * ✉️  You can contact me at [oluseun.oladiipo@gmail.com](mailto:oluseun.oladiipo@gmail.com)
 * 🤝  I'm open to collaborating on projects
-* Currently building [Invoice Maker](https://github.com/OluseunAkintayo/InvoiceMaker-UI)
+* Currently building [NexTools](https://github.com/OluseunAkintayo/dev-tools)
 
 ### Skills
 
